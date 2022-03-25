@@ -6,15 +6,14 @@
     :indicators="false"
   />
   <br><br>
-  <h6><i>KUUMIKO is established By Team of three Anime & Manga Enthusiast People Glitchkase , Shawn & Backfyr . At Kuumiko we promise you to offer best Quality & Price ratio products based on your favourite Anime & Japanese culture</i></h6>
+  <h6><i>Pinkay & Kuro is established By Team of Anime & Manga Enthusiasts. At Pinkay & Kuro we promise you to offer best Quality & Price ratio products based on your favourite Anime & Japanese culture</i></h6>
  <br><br>
  <MDBRow>
-    <MDBCol col="6"><h1><b>ABOUT OUR TEAM</b></h1><p>Glitchkase & Backfyr are Full time music producer fighting for there place in industry with little to no support . We all are just students learning everything on our way and trying to do something unique yet which if full of emotions. On The other hand Shawn is a entrepreneur Enriched with many ideas which are in implementation . By supporting us you will help us as an artist as an family.</p></MDBCol>
-    <MDBCol col="6"><h1><b>PREVIOUS WORKS</b></h1><p>We also worked with MTV & Vh1 as marketing team and product design and are specialised In Designing modern Aesthetics which means what you see here is Handpicked by us with Totally new fresh and Modern Styles , You can be part of our small family we call " Kuumiko " just by supporting us by buying products from our site</p></MDBCol>
+    <MDBCol col="6"><h1><b>ABOUT OUR TEAM</b></h1><p>We a team full of entrepreneurs Enriched with many ideas which are in implementation . By supporting us you will help us as an artist as an family.</p></MDBCol>
+    <MDBCol col="6"><h1><b>PREVIOUS WORKS</b></h1><p>We also worked with Rage and Comicon as marketing team and product design and are specialised In Designing modern Aesthetics which means what you see here is Handpicked by us with Totally new fresh and Modern Styles , You can be part of our small family we call " Kuumiko " just by supporting us by buying products from our site</p></MDBCol>
   </MDBRow>
-
   <MDBRow>
-    <MDBCol sm="6"><h1><b>VISION</b></h1><p>What you wear or keep in possession is form of your self and very own expression. So at Kuumiko we ensure you to provide wide variety of Anime Products . Everything which is crafted with love and Culture.</p></MDBCol>
+    <MDBCol sm="6"><h1><b>VISION</b></h1><p>What you wear or keep in possession is form of your self and very own expression. So at Pinkay & Kuro we ensure you to provide wide variety of Anime Products . Everything which is crafted with love and Culture.</p></MDBCol>
     <MDBCol sm="6"><h1><b>OUR PRIORITY AND GOALS</b></h1><p>Our goal in not only sell products but to build a community. We aim turn your purchase into an experience.</p></MDBCol>
   </MDBRow>
 
